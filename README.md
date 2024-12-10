@@ -8,9 +8,7 @@
 <p>
   A GUI based web scraper written in Python. Useful for data collectors who want a nice UI for scraping data from many sites.
 </p>
-<hr>
-<h3>Why❓:</h3>
-<p>I was looking through Reddit for fun project ideas and came across a thread in which there was a comment of someone complaining about there not being a GUI Web Scraper. Thus I started working on Web Scraper.</p>
+
 
 <h3>Features ✨:</h3>(✅ means that it is implemented. ❌ means that i am working on it.)
 <br>

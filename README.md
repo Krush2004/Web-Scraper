@@ -10,7 +10,7 @@
 </p>
 
 
-<h3>Features ✨:</h3>(✅ means that it is implemented. ❌ means that i am working on it.)
+<h3>Features ✨:
 <br>
 <ol>
   <li>✅ Supports 2 request types; GET & POST (at the moment)</li>
@@ -32,7 +32,6 @@
   <li>✅ All errors are handled and logged</li>
   <li>✅ Can delete an unwanted item from the list of added variables</li>
   <li>✅ Can reset the entire app to start brand new after a scrape/set of scrapes</li>
-  <li>❌ Provides verbose output to user in the GUI</li>
   <li>✅ User can set 'presets', basically if user does a scrape repetitively they can set a preset. User can then just load and run the preset without having to define the variables each time</li>
   <li>✅ Can scrape links</li>
   <li>✅ Unique way for generating unique filename for each log AND save data file so that no mixups happen</li>
